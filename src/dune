@@ -1,0 +1,4 @@
+(library
+ (name menulib)
+ (public_name Menulib)
+ (libraries graphics))

@@ -1,0 +1,18 @@
+Installation instructions:
+
+- Install the required Graphics module using following commands
+    - opam install graphics
+    - opam install user-setup
+    - opam user-setup install
+
+Build Instructions:
+- Navigate to the directory of this project on the terminal
+- To build the system, use <dune build> 
+- Run dune clean to get ready of unncessary messy files from the directory
+
+Execution Instructions:
+- Navigate to the directory of this project on the terminal
+- Run <make play> to execute the program 
+- Use capital case W, S, A, D, C, and Q to move the pacman on PACKQuintuple window
+
+ 
